@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+First attempt at app creation with flutter, viewing LoL player statistics.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.

@@ -206,469 +206,469 @@
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/Accessibility.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/Accessibility-DHA14FSV725XD6FFRXSF4OLLJ.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/Accessibility-19KEVIPN9SDMIAI7QNH6GO9VM.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Accessibility"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/AppKit.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/AppKit-4G6XL806U7K1J4E554KY2P9AA.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/AppKit-ELEW738YIBSC852ZYW6QAEV3R.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "AppKit"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/ApplicationServices.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/ApplicationServices-7AU1CD10VA27CYAL6A3SLBBN5.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/ApplicationServices-CAVDX3T52RRYKE8CMMDREHHGK.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ApplicationServices"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CFNetwork.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/CFNetwork-9AWMHG7PGEFIKGCIX8LFSG6X.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/CFNetwork-5I7TC95F41XRFCVEKBULSTRAG.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CFNetwork"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/cups.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/CUPS-E72D0E2RUS6HZ4FE4549QR3X4.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/CUPS-WEXSPPGEKSATZY205RSPPHPT.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CUPS"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/Cocoa.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/Cocoa-5HOHYA66N1NZYG810WSAUXSXI.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/Cocoa-B9SIM268CHHPFTA9S288YPHLM.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Cocoa"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/ColorSync.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/ColorSync-81QIELBP40UBAID8NI6RI5XK5.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/ColorSync-5LWXF39LWL5IMAICI3LH9SDUY.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ColorSync"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreAudio.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/CoreAudio-3YEBO2SEULNSRGI50LBJZWJWX.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/CoreAudio-39E8F261BVFO0XKFWA328T2P5.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreAudio"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreAudioTypes.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/CoreAudioTypes-B6FBDXVQ193UGSJ3X45YOOMR4.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/CoreAudioTypes-7KJA8N2BXDRNLC80JZ2MUGJZH.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreAudioTypes"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreData.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/CoreData-3ERGM7R6X2OSOWUR45T01UK1K.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/CoreData-E52NOZ47NREN3VPIND4POCC92.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreData"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreFoundation.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/CoreFoundation-4BL2WSXYJ9PP8UEVHXI48HV7E.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/CoreFoundation-5ZCE0L9Q1P3KS9F3E9KBU4UPV.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreFoundation"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreGraphics.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/CoreGraphics-8H2W5IT40JEVV0DQQUZC8S4U9.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/CoreGraphics-ED13APJAWRPGD1WJMQBEW1GYW.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreGraphics"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreImage.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/CoreImage-1Y07GYV5AQV6Y6UQ7WFQLTEAJ.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/CoreImage-2L676R8SWV1BBHEOVW024Z25C.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreImage"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreMedia.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/CoreMedia-ECBHF8U081ICZHS6BAJH5YW3R.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/CoreMedia-7TTTKJTI0W2KW4OU9H6AKPE9B.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreMedia"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreServices.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/CoreServices-DH6V4249JPR8XDVXCLDE2RNM3.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/CoreServices-BW0PHCX89SV80J7KSWCDQ8L4U.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreServices"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreText.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/CoreText-76I0QTTETIGG5WONM62GWLELA.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/CoreText-8V3XI8GLFKO47ZGZ3U595GMPD.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreText"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreTransferable.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/CoreTransferable-8FE7V82R5KJT4KV5X6YSSEOJG.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/CoreTransferable-5ZUIEJN0H73BLFMVCIXNPRVKD.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreTransferable"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreVideo.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/CoreVideo-9IB2LSK9S8MWQEL8M6GRTKBUI.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/CoreVideo-BGQYHB8ZG8U68UN4WT3F3S2XV.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreVideo"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/Darwin.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/Darwin-48HXDUI6VTCG46IQ3K42W3QSC.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/Darwin-BVXCEXQ1FSM7NPVOZLKYNE99M.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Darwin"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/DataDetection.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/DataDetection-WGMUFY3LG5MR5SY7K7KL1TVB.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/DataDetection-3PLLPD1G61JFPYAWGSUYUNLA4.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "DataDetection"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/DeveloperToolsSupport.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/DeveloperToolsSupport-EDLGSKCNQE8FT7IKL8K5DGT7S.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/DeveloperToolsSupport-CX1AQOGHO5BL5TEUC10JFMQ4J.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "DeveloperToolsSupport"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/DiskArbitration.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/DiskArbitration-8FV3YBWH21VXAQBNI9FG05GA1.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/DiskArbitration-C05KXMU5W1Q6D7J3I5E4NPC39.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "DiskArbitration"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/dispatch.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/Dispatch-57HDOQEVCBXUCV91GWWDBEAMJ.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/Dispatch-6JHZAGSRHSQHQNNGH7JIZZ6X8.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Dispatch"
   },
   {
-    "clangModuleMapPath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/Build\/Products\/Debug\/FlutterMacOS.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/Build\/Intermediates.noindex\/SwiftExplicitPrecompiledModules\/FlutterMacOS-2WQQSYSP64U862DWEQPAMPVBS.pcm",
+    "clangModuleMapPath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/Build\/Products\/Debug\/FlutterMacOS.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/Build\/Intermediates.noindex\/SwiftExplicitPrecompiledModules\/FlutterMacOS-DPHELJOUIF04VO31OYFHG3EID.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "FlutterMacOS"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/Foundation.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/Foundation-AJEB9GCIBZIABDLKJKR7LHI9Y.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/Foundation-DNYTHQ09WBKNFSSHXA5BNE5PC.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Foundation"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/IOKit.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/IOKit-9CBL8RQ721FLFL67XW46YDI.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/IOKit-M9D4M3O90HG11T9JV5Y7MK51.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "IOKit"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/IOSurface.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/IOSurface-BC5ZATGGEW7W94AA6PZ4OC9LW.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/IOSurface-5DXF3HLLZYT9SJI2X4OL544NQ.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "IOSurface"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/ImageIO.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/ImageIO-DI0OXFWFN7X96Y7YMBJUIWX62.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/ImageIO-8SQ4KRUX5GMAU7C5PVXK78A2K.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ImageIO"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/DarwinBasic.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/MachO-D8CIT41GP21XZ1JN9YKQ2PG5E.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/MachO-9TZJY807M4YHTYLU1Z9L0ODDC.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "MachO"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/Metal.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/Metal-ACDSHT6HIWMLEOEE08QIJCFG2.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/Metal-A1PKD0E5PPRKOJCFZUZ7TUGOZ.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Metal"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/OSLog.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/OSLog-KO0NCAZZEYME8CVRLT3702L7.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/OSLog-AN7B1NDN97THNQ7SMHM3UZ5DB.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "OSLog"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/ObjectiveC.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/ObjectiveC-27R8J2A4RO1Y3BTNC20K7Q50P.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/ObjectiveC-HTU96OMR4KXFKS36DEH1IXDH.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ObjectiveC"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/OpenGL.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/OpenGL-AQ48ZRWDLPW0KC37AP5XK6TNJ.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/OpenGL-5BR7ZYHNSAY5GNAUJYGGPS0Z6.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "OpenGL"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/QuartzCore.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/QuartzCore-4CFPP6SWGJSTEUYYT1O9AL7A2.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/QuartzCore-47RXNBORRBXPQ3C2CTICBBSD9.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "QuartzCore"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/Security.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/Security-2AYFGUE09VNZD7F9Q96SXRLEF.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/Security-CYPNL0JFKHB1L3H9RKG4EXXI1.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Security"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/Spatial\/module.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/Spatial-5WFTRPBSR5X1VFGQGZ5ELFPDG.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/Spatial-CDHNDUWS6VM4FE41CNXTI97B2.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Spatial"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/lib\/swift\/shims\/module.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/SwiftShims-AOKUMSRADB98ME074SJ52XRNU.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/SwiftShims-85ZX6FHCO2HBSTA1PGTV9N7EP.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "SwiftShims"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/SwiftUI.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/SwiftUI-CERF97O4N7ALIIVYXSAYGLYTR.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/SwiftUI-4IYON8SXDH6YHP699GV3L718I.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "SwiftUI"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/SwiftUICore.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/SwiftUICore-678WTA94B95NWNFKPHOZI0ZIP.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/SwiftUICore-AN89E7L7VV02V2A2VYME2QPLL.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "SwiftUICore"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/Symbols.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/Symbols-6WSQ682N59NMNEAH4L6G6VVU8.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/Symbols-1TSNJC5PFAY213UA7V44C7S02.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Symbols"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/UniformTypeIdentifiers.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/UniformTypeIdentifiers-66R5YFOXQ7BDC7LP10IH35SYI.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/UniformTypeIdentifiers-3MGF3W8NMOZ3B8GHZ5HP5RHJ1.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "UniformTypeIdentifiers"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/xpc.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/XPC-BHS9JOHMADKT9PF28S9QQX5NN.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/XPC-5P1K1BBMV2BBNYMKS0DEINP3B.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "XPC"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/DarwinFoundation1.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/_AvailabilityInternal-DY287A13853MDP7MFA23VMJSM.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/_AvailabilityInternal-2T2RSVGR00YUMVF5AYTTSTG0G.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_AvailabilityInternal"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/_Builtin_float-1QKOED9X9W9ZVYR63E89E6CLT.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/_Builtin_float-28L934BFP33SYWOVBKD02Z6QS.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_float"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/_Builtin_intrinsics-CWUQXFGOX6TVC7W4ASOMTKNWN.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/_Builtin_intrinsics-4R6R72Q40175ZMQ5RTYOMAS47.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_intrinsics"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/_Builtin_inttypes-ABHQWYTWIOKXS43B9P8HK6U72.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/_Builtin_inttypes-1V2TTEKIKUG22XNV9GMWOOJS8.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_inttypes"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/_Builtin_limits-76J6QMJLN4978005CX5OLYTNV.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/_Builtin_limits-94O6IXBISS3PTVEIGJKH4GBIU.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_limits"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/_Builtin_stdarg-2MWUZ6OJ3E1M8KQNJN6C7X9UU.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/_Builtin_stdarg-1MHX8DM6DBIOCFNL22QMS5VVR.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_stdarg"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/_Builtin_stdatomic-5NQMV0AV8PPYHUJV9UUIHC11S.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/_Builtin_stdatomic-2H4N98LOTCEO10VQY1BZ5451G.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_stdatomic"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/_Builtin_stdbool-418EV3IJEO1LPT6LZSTLZMCOM.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/_Builtin_stdbool-ACKG7QEFSLHXLDI4714YPL4CL.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_stdbool"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/_Builtin_stddef-30OK598KB4VGNN5CPKIW4CFGL.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/_Builtin_stddef-66JL1UU9R7U19IW96ORM9XU7H.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_stddef"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/_Builtin_stdint-EJCNODOIYF74F7G74ZF6XR675.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/_Builtin_stdint-7RD0YN393GLO75A4KN4QFZ5I4.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_stdint"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/_Builtin_tgmath-E84Q7NML7A4N177X6ALP4INLA.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/_Builtin_tgmath-B3YLUG831RKD4OLKFRNIG4N9G.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_tgmath"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/DarwinFoundation1.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/_DarwinFoundation1-EC7I8KAVUSQTDXOB4QA97I5RX.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/_DarwinFoundation1-505KNNB7NATM5ULE8IDHY0VTA.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_DarwinFoundation1"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/DarwinFoundation2.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/_DarwinFoundation2-APQB9Z9MR5JDVCNZMUG6O3QPS.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/_DarwinFoundation2-23PI5FHZKAUYQO8V57MGQZLN.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_DarwinFoundation2"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/DarwinFoundation3.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/_DarwinFoundation3-92UT2VW0D9W5I54YO4ZZVDP8K.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/_DarwinFoundation3-B94J5MMKWH83JNADG0MK2H1TE.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_DarwinFoundation3"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/lib\/swift\/shims\/module.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/_SwiftConcurrencyShims-333MWRGHYIB7VQLPFSTBD6NVV.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/_SwiftConcurrencyShims-CXMR3D0HNI1VODKXSYSCV53U0.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_SwiftConcurrencyShims"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/launch.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/launch-IYCP6HBVA33Z8J660Z3XZWK.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/launch-4UXDUGFVOI13E1W53E8JR4NNC.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "launch"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/libDER\/module.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/libDER-C6OI4PPCIJX8PN8QK40YXOBX3.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/libDER-871KLOLQB2ZL7DYR2S0I503J.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "libDER"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/libkern.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/libkern-6MTZS0VNFZ2VMCBSYB3OLJC5M.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/libkern-A5WLE4N5Z1HT2N0D56D3KKALO.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "libkern"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/os.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/os-3SVJJWYNBS9H44LRQLM46JLHT.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/os-C5LEIM3WJJ78NRM6G14MB50ZC.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "os"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/os.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/os_object-8W61WVSM4PEJE5YNDT76D2DVN.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/os_object-9FMXHMVBALLUZWMTKVOHBFUJ6.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "os_object"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/os.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/os_workgroup-2DF9KC5BZOYWSTWA47H2K3NXB.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/os_workgroup-EFBOKFHWPAQW1M8GMDQ00U4WZ.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "os_workgroup"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/ptrauth-ENM0FONGL6VZBKVUMGZBEQD6L.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/ptrauth-5TWD31LUR23VB0L0M0OJRV5WT.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ptrauth"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/ptrcheck-1YLCNWZFX175EOMA402C6VIK9.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/ptrcheck-11U9GIUWKK3SYL8NH9KYA5T28.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ptrcheck"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/simd\/module.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/simd-9O9PZB7BHG0BPSP9B0R0MPB6P.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/simd-9SYJFL4NPDVK58R21KFR2VGT3.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "simd"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/DarwinFoundation2.modulemap",
-    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/wethink\/build\/macos\/ModuleCache.noindex\/sys_types-BR20P297EZA6HCIIRZ3L7GNSJ.pcm",
+    "clangModulePath" : "\/Users\/lukethornton\/Dev\/WeThink_App\/build\/macos\/ModuleCache.noindex\/sys_types-2QC85W3V5YM45R288HM03UWU.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "sys_types"
